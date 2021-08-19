@@ -12,6 +12,6 @@ Being both a Designer and a Web Developer, I spent the last decade learning abou
 
 A quick shout-out to some great projects, teams and individuals whose work I really appreciate: Vue, Nuxt, Laravel, OpenCollective, elemantaryOS, Apple, Jest, Figma, Affinity, @sindresorhus, @thetutlage. You guys rock :metal:
 
-I use my open source projects to keep learning new stuff. Currently I'm diving deeper into Nest.js, MongoDB and GraphQL.
+I use my open source projects to keep learning new stuff. Currently I'm diving deeper into Adonis.js, MongoDB and Alpine.js.
 
-If you would like to talk to me, just do ;)
+If you would like to talk to me, just do ;) If I helped you a little in any way and you feel like it, you can now [buy me a drink](https://www.buymeacoffee.com/tillsanders).
